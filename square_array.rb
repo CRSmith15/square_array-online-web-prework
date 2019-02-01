@@ -1,4 +1,3 @@
 def square_array(array)
-  arr = array.each {|x| x*x}
-  return arr
+  array.each 
 end
